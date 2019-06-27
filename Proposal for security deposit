@@ -1,0 +1,3 @@
+Maybe this is not the place for this, but I would totally suggest that if a security deposit is coming directly from Bisq wallet, those funds get blocked instead of having to actually send them to the network. 
+It would make for way faster processing, and it might help mitigating the current miscalculation of correct mining fee that creates unnecessary (and serious) delays on trades.
+On top of that, it would encourage users to always keep some funds on their Bisq wallet.
